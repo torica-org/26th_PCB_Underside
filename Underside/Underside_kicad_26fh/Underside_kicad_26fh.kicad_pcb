@@ -164,7 +164,7 @@
 		)
 		(path "/68c980a8-e516-4ead-b53c-b8e48ccf7623")
 		(sheetname "/")
-		(sheetfile "Underside.kicad_sch")
+		(sheetfile "Underside_kicad_26fh.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -8.89 8.509)
@@ -554,7 +554,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -0 -0 -0)
+				(xyz 0 0 0)
 			)
 		)
 		(model "${AMZPATH}/3Dmodel/AMz3D.3dshapes/Seeed Studio XIAO-ESP32-C3.step"
@@ -589,7 +589,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -600,7 +600,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -611,7 +611,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -622,7 +622,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -633,7 +633,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -644,7 +644,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -655,7 +655,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -666,7 +666,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -677,7 +677,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -688,7 +688,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -699,7 +699,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -710,7 +710,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -721,7 +721,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 		(model "C:/Users/Corei7-11800H/COMMONLY_USED/git/0_TORICA_Org/TORICA_Hardware_Library/3Dmodel/ピンソケット.step"
@@ -732,7 +732,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 -0 -0)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -790,7 +790,7 @@
 		)
 		(path "/91b52804-d4ad-4fd1-add7-3ff2ef4c03ab")
 		(sheetname "/")
-		(sheetfile "Underside.kicad_sch")
+		(sheetfile "Underside_kicad_26fh.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start 11.53 1.27)
@@ -959,7 +959,7 @@
 		(property ki_fp_filters "microSD*")
 		(path "/e9c04f19-6b8e-4498-9787-0e42cde3182a")
 		(sheetname "/")
-		(sheetfile "Underside.kicad_sch")
+		(sheetfile "Underside_kicad_26fh.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start 12.7 19.56)
@@ -1176,7 +1176,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fc48651e-e0f6-46c9-a35a-b5abcd9f77f4")
 		(sheetname "/")
-		(sheetfile "Underside.kicad_sch")
+		(sheetfile "Underside_kicad_26fh.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -5 -2.65)
@@ -1422,7 +1422,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/80610939-f7f1-41d9-bcc3-bec169bc9307")
 		(sheetname "/")
-		(sheetfile "Underside.kicad_sch")
+		(sheetfile "Underside_kicad_26fh.kicad_sch")
 		(attr smd)
 		(fp_rect
 			(start -5 -2.65)
