@@ -1493,17 +1493,6 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 101.05 91)
-		(end 152.05 113)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(fill no)
-		(layer "B.SilkS")
-		(uuid "dea0504f-b04b-494e-b857-a915c5305bac")
-	)
-	(gr_rect
 		(start 160.35 91.5)
 		(end 175.35 112.5)
 		(stroke
@@ -1513,6 +1502,17 @@
 		(fill no)
 		(layer "B.SilkS")
 		(uuid "b403c4ee-e07c-4068-a5e3-7ed32922fb63")
+	)
+	(gr_rect
+		(start 101.05 91)
+		(end 152.05 113)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "dea0504f-b04b-494e-b857-a915c5305bac")
 	)
 	(gr_rect
 		(start 96 59)
@@ -1752,7 +1752,7 @@
 	(segment
 		(start 152.54 69.04)
 		(end 155 69.04)
-		(width 0.2)
+		(width 0.6)
 		(layer "F.Cu")
 		(net 9)
 		(uuid "024006d6-3b12-41c3-9806-d01e8c366e09")
@@ -1790,6 +1790,14 @@
 		(uuid "39a56e2f-c954-4159-a670-18648c1c21ec")
 	)
 	(segment
+		(start 157.96 69.04)
+		(end 158 69)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "3b5b09f9-967c-4f75-b641-62ddaff68702")
+	)
+	(segment
 		(start 121.88 84.88)
 		(end 121.88 82.2)
 		(width 0.2)
@@ -1804,6 +1812,14 @@
 		(layer "F.Cu")
 		(net 9)
 		(uuid "4ec2b9a8-4c04-4af7-866b-2d18ed3afc74")
+	)
+	(segment
+		(start 155 69.04)
+		(end 157.96 69.04)
+		(width 0.6)
+		(layer "F.Cu")
+		(net 9)
+		(uuid "4f1990af-0434-4857-9d28-b5c84e007c7c")
 	)
 	(segment
 		(start 134.17 93.3)
@@ -2986,7 +3002,6 @@
 		)
 		(filled_polygon
 			(layer "F.Cu")
-			(island)
 			(pts
 				(xy 163.00583 67.202294) (xy 163.012092 67.201119) (xy 163.03895 67.21202) (xy 163.066757 67.220185)
 				(xy 163.070928 67.224998) (xy 163.076832 67.227395) (xy 163.093535 67.251089) (xy 163.112512 67.272989)
