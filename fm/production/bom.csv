@@ -1,7 +1,8 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
 "_2, ",,2,,
 J1,microSD_AE-MICRO-SD-DIP,1,Micro_SD_Card_Det_Hirose_DM3AT,
-J2,PA_Connector_Post_4Pin,1,Conn_01x04_Pin,
+J2,JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal,1,Conn_01x03_Socket,
+J3,PinSocket_1x04_P2.54mm_Vertical,1,Conn_01x04_Socket,
 U2,URM37,1,URM-37,
 U3,XIAO-RP2040-DIP,1,SeeeduinoXIAO,
 UNDER_URAT1,PA_Connector_Post_4Pin,1,TORICA_URAT1,
